@@ -1,0 +1,23 @@
+<ElfMathTasks>
+    <ElfMathTask title="Neki kul integral">
+        <Expression>x</Expression>
+        <UpperBound>10</UpperBound>
+        <LowerBound>0</LowerBound>
+        <Step>0.000001</Step>
+        <ElfCount>2</ElfCount>
+    </ElfMathTask>
+    <ElfMathTask title="Neki drugi">
+        <Expression>x-x^2+3*x^3</Expression>
+        <UpperBound>11</UpperBound>
+        <LowerBound>0</LowerBound>
+        <Step>0.000001</Step>
+        <ElfCount>3</ElfCount>
+    </ElfMathTask>
+    <ElfMathTask title="Moze jos">
+        <Expression>x*2+3*5+x^2</Expression>
+        <UpperBound>10</UpperBound>
+        <LowerBound>0</LowerBound>
+        <Step>0.000001</Step>
+        <ElfCount>2</ElfCount>
+    </ElfMathTask>
+</ElfMathTasks>
