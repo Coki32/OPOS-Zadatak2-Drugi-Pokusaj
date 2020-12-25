@@ -20,7 +20,14 @@ Postoji asociacija sa .emt fajlovima koji moraju imati ispravnu XML strukturu ka
 ```
 Gdje su polja:
 * `Expression` - Funkcija ciji integral trazimo
+  * `title` - naslov tog integrala u korisnickom interfejsu
 * `UpperBound` - Gornja granica integrala
 * `LowerBound` - Donja granica integrala
 * `Step` - Velicina koraka integracija
 * `ElfCount` - Broj threadova na kojima se izvrsava odredjeni integral
+
+
+______
+_____
+____
+Ovaj put nije sve lijepo i uredno.  
