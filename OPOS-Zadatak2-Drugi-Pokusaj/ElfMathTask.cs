@@ -110,11 +110,9 @@ namespace OPOS_Zadatak2_Drugi_Pokusaj
                                 SubResults[index] = (SubResults[index].from, SubResults[index].to, previousResult);
                             else
                                 SubResults[index] = (from, to, 0.0);
-                            int brojKorakaMajkuMu = 0;
                             double x = from;
                             for (x = from; x <= to; x += step)
                             {
-                                brojKorakaMajkuMu++;
                                 if (token.IsCancellationRequested)
                                     token.ThrowIfCancellationRequested();
                                 if (State == ElfState.Pausing)//Paused jer je mozda neko pauzirao vec...
