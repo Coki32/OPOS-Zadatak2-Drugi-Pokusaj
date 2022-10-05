@@ -30,4 +30,3 @@ Gdje su polja:
 ______
 _____
 ____
-Ovaj put nije sve lijepo i uredno zbog drugih obaveza sam kasno poceo da radim ovo.
